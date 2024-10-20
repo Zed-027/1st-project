@@ -322,6 +322,10 @@ body {
     flex-direction: column;
     align-items: center;
   }
+  .about .about-content .image::after {
+    display: none;
+  }
+
 }
 
 .about-content .image {
